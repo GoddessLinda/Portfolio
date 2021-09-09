@@ -1,0 +1,55 @@
+body {
+   background-color:aqua;
+   color:black;
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: 16; 
+}
+
+header {
+   background-color:rgb(162, 26, 180);
+   color:white; 
+}
+
+.navbar {
+   
+}
+
+.navbar a {
+   :link 
+   a :hover; color: red;
+   :visited
+   :active 
+} 
+
+.navbar li {
+   text-decoration: underline;
+   display: flex;
+   justify-items: center;
+}
+
+.main {
+   background-color: white;
+   columns: 3; 
+   column-width: auto; 
+}
+
+h1 {
+  font-size: 20; 
+}
+
+h2 {
+   font-size: 18; 
+}
+
+p {
+   color: rgb(4, 56, 4); 
+}
+
+img {
+   height: 300; 
+   width: 300; 
+}
+
+footer {
+   font-size: 10px;
+}
